@@ -18,7 +18,7 @@
     </modules>
 
     <groupId>com.example</groupId>
-    <artifactId>weather</artifactId>
+    <artifactId>microservice-examples</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>weather</name>
     <packaging>pom</packaging>
